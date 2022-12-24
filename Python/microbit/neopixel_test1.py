@@ -1,3 +1,4 @@
+## main ref - http://www.yahboom.net/study/Super:bit
 from microbit import *
 import neopixel
 
